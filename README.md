@@ -1,4 +1,4 @@
-# Amazon-dashboard
+# Amazon-Prime dashboard
 This Power BI dashboard visualizes Amazon Prime Video content data, showcasing insights like total shows, genre distribution, content type split, global availability, ratings by genre, and release year trends. It highlights viewing patterns and content dynamics across 87 countries.
 This project showcases a detailed and interactive dashboard built using Microsoft Power BI to analyze and visualize content data from Amazon Prime Video. The goal of the dashboard is to provide insightful trends and distributions related to Prime Video's vast library of movies and TV shows, enabling users to understand content dynamics at a glance.
 
